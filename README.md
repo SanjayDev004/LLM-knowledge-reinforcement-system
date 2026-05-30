@@ -110,14 +110,6 @@ Copy `backend/.env.example` to `backend/.env` and fill in:
 - `QWEN_MODEL` — qwen2.5:3b
 
 ## 📸 Screenshots
-*(Add your screenshots here)*
-
-## 👨‍💻 Author
-**SANJAY S** — Final Year MCA Project  
-Madurai Kamaraj University
-
-## 📸 Screenshots
-
 ### Dashboard
 ![Dashboard](screenshots/02_dashboard.png)
 
@@ -132,3 +124,10 @@ Madurai Kamaraj University
 
 ### Progress
 ![Progress](screenshots/08_progress.png)
+
+## 👨‍💻 Author
+**SANJAY S** — Final Year MCA Project  
+Madurai Kamaraj University
+
+
+
